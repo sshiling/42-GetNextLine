@@ -14,5 +14,5 @@ In my opinion, this one of the two most important functions at 42 School. This f
 Also we get familiarized with static variables in this project.
 
 School 42 in Ukraine: https://unit.ua/ <br />
-School 42 in France: http://www.42.fr/ <br />
-School 42 in USA: https://www.42.us.org/
+School 42 in France:  http://www.42.fr/ <br />
+School 42 in USA:     https://www.42.us.org/
